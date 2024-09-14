@@ -1,0 +1,32 @@
+@font-face {
+    font-family: happymonkey;
+    src: url(font/HappyMonkey-Regular.ttf);
+}
+
+body {
+    font-family: happymonkey;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: yellow;
+    color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #333;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
