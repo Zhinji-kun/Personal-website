@@ -7,7 +7,7 @@ body {
     font-family: happymonkey;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #2e2e2e;
 }
 
 header {
@@ -47,12 +47,7 @@ nav a {
 
 main {
     padding: 20px;
-    color: rgb(167, 124, 187);
-    text-shadow: 
-        -2px -2px 0 #003a61,
-        2px -2px 0 #003a61,
-        -2px 2px 0 #003a61,
-        2px 2px 0 #003a61;
+    color: rgb(124, 207, 255);
 }
 
 .mainser {
